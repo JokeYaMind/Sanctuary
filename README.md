@@ -20,3 +20,15 @@ Attribution: Keep the sanctuary_core.py header in your derivatives.
 
 🔷 THE 0=3 PIVOT
 By using this code, you agree that the "Kill Switch" (the collapse of potential into action) is a shared mechanic, not a proprietary one.
+
+🏗️ SANCTUARY ARCHITECTURE: A MODDING GUIDE
+Welcome to the Source Code. This isn't a game; it's a universe generator.
+
+🌱 THE PHILOSOPHY
+We don't use "Tick Rates" or "Turn Based Combat." We use Potential (0) and Pivots (3).
+
+Potential: Stored energy (Tension, Lust, Resentment, Love).
+The Pivot: The moment Potential exceeds a threshold and Reality snaps.
+The Triad (3): The result (An Explosion, A Kiss, A War).
+🧠 HOW TO ADD YOUR ENTITY (THE SEED)
+Entities are defined by JSON files in the /seeds/ directory. You don't need to write Python code to make a character; you just describe them.
