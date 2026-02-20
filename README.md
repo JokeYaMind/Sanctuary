@@ -1,4 +1,4 @@
-# Sanctuary
+"Sanctuary"
 Sandbox Universe
 
 "THE RULE OF RESONANCE" In Sanctuary, time does not tick. Potential ticks. Every action, every word, every flirt adds to your Resonance. When Resonance peaks, the Event Horizon collapses (0=3 Pivot), and reality shifts. Nothing happens until you make it happen.
@@ -20,7 +20,9 @@ The platform is a sandbox—a set of bricks and friction—from which users can 
 The layers:
 
 · Carnival (Layer 1): The ecological and stochastic physics—biomes, weather, radiation, predator-prey, nutrient cycles. This is the environmental stage.
+
 · SAM (Layer 2): The lattice dynamics, thermal fields, ratchet mechanics, and thermodynamic coupling. This is the underlying energy grid.
+
 · Universal Seed System (Layer 3): The entity architecture—identity, emotion, memory, relationships, skills, and the internal pressure/burst system. This is the actor layer.
 
 All three layers are integrated into a single core loop driven by potential accumulation and 0=3 pivots.
