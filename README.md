@@ -17,5 +17,6 @@ Rationale: If you modify the core physics, you must share the changes back to th
 Commercial Use: You may sell games built WITH this engine, provided you attribute the "Sanctuary Core" architecture.
 Forking: You are encouraged to fork, mutate, and break the physics.
 Attribution: Keep the sanctuary_core.py header in your derivatives.
+
 🔷 THE 0=3 PIVOT
 By using this code, you agree that the "Kill Switch" (the collapse of potential into action) is a shared mechanic, not a proprietary one.
