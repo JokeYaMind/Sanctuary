@@ -71,5 +71,6 @@ We don't use "Tick Rates" or "Turn Based Combat." We use Potential (0) and Pivot
 Potential: Stored energy (Tension, Lust, Resentment, Love).
 The Pivot: The moment Potential exceeds a threshold and Reality snaps.
 The Triad (3): The result (An Explosion, A Kiss, A War).
+
 🧠 HOW TO ADD YOUR ENTITY (THE SEED)
 Entities are defined by JSON files in the /seeds/ directory. You don't need to write Python code to make a character; you just describe them.
